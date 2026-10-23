@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" role="img" aria-label="Matahari Muhammadiyah">
+  <g transform="translate(60 60)">
+    <g fill="currentColor">
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(27.7)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(55.4)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(83.1)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(110.8)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(138.5)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(166.2)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(193.8)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(221.5)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(249.2)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(276.9)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(304.6)"/>
+      <rect x="-2.5" y="-48" width="5" height="16" rx="2.5" transform="rotate(332.3)"/>
+    </g>
+    <circle r="26" fill="currentColor"/>
+    <circle r="20" fill="none" stroke="white" stroke-width="1.5" opacity="0.25"/>
+    <text text-anchor="middle" y="6.5" font-size="20" font-weight="700" fill="white" font-family="Poppins, Arial, sans-serif">M</text>
+  </g>
+</svg>
